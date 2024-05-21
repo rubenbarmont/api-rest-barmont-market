@@ -13,7 +13,7 @@ import java.util.List;
 public interface ProductMapper {
 
     @Mappings({
-            @Mapping(source = "idProduct", target = "productId"),
+            @Mapping(source = "idProducto", target = "productId"),
             @Mapping(source = "nombre", target = "name"),
             @Mapping(source = "idCategoria", target = "categoryId"),
             @Mapping(source = "precioVenta", target = "price"),
