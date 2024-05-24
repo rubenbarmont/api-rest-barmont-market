@@ -1,1 +1,1 @@
-web: java -jar -Dspring.profiles.active=pdn "C:\Users\Barmont\IdeaProjects\barmont-market\build\libs\barmont-market-1.0.jar"
+web: java -jar -Dspring.profiles.active=pdn C:\Users\Barmont\IdeaProjects\barmont-market\build\libs\barmont-market-1.0.jar
